@@ -1,0 +1,352 @@
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\appsettings.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\project!.exe
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\project!.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\project!.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\project!.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Castle.Core.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Collections.Immutable.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\scopedcss\bundle\project!.styles.css
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\refint\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\project!.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\project!\obj\Debug\net6.0\ref\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\refint\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\appsettings.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\project!.exe
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\project!.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\project!.runtimeconfig.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\project!.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Castle.Core.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Collections.Immutable.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\scopedcss\bundle\project!.styles.css
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\project!.genruntimeconfig.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\obj\Debug\net6.0\ref\project!.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\libman.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\BCrypt.Net-Core.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\project!\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\libman.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.staticwebassets.endpoints.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.exe
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.deps.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.runtimeconfig.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.pdb
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\BCrypt.Net-Core.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\פרויקט\c#-project\project!\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.AssemblyInfo.cs
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\scopedcss\bundle\project!.styles.css
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.Up2Date
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\refint\project!.dll
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.pdb
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.genruntimeconfig.cache
+C:\Users\user\Documents\פרויקט\c#-project\project!\obj\Debug\net6.0\ref\project!.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\libman.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.staticwebassets.endpoints.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.exe
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.deps.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.runtimeconfig.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\project!.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\BCrypt.Net-Core.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Humanizer.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\BLL.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\BLL.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.AssemblyInfo.cs
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\scopedcss\bundle\project!.styles.css
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.csproj.Up2Date
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\refint\project!.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\project!.genruntimeconfig.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\project!\obj\Debug\net6.0\ref\project!.dll

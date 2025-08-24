@@ -1,0 +1,60 @@
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project!\DTO\obj\Debug\net6.0\ref\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפה\קבוצה ו-1\רבקי מנדלסון\שנה ב\C#\project2\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\user\Documents\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\user\Documents\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\פרויקט\c#-project\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\פרויקט\c#-project\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\פרויקט\c#-project\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\bin\Debug\net6.0\DAL.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.csproj.Up2Date
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\user\Documents\רבקי\פרויקט\c#-project\DTO\obj\Debug\net6.0\ref\DTO.dll
