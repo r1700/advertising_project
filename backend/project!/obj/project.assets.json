@@ -7552,11 +7552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\project!\\project!.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\project!\\project!.csproj",
       "projectName": "project!",
-      "projectPath": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\project!\\project!.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\project!\\project!.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\project!\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\project!\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7578,11 +7578,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\BLL\\BLL.csproj"
+            "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\DAL\\DAL.csproj"
+            "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\DAL\\DAL.csproj"
             }
           }
         }

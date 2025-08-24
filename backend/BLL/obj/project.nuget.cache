@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0ASqmjEfLM=",
+  "dgSpecHash": "Ia6syaNExu8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Documents\\רבקי\\פרויקט\\c#-project\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\רבקי\\advertising_project\\backend\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512",
