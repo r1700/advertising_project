@@ -145,13 +145,11 @@ export default function NavSaid() {
     dispatch(logout()); // תחליף לאקשן שלך
     // setIsLoggedIn(false);
     user = {}; // נקה את המשתמש מהסטייט
-    console.log("user after logout--- ", user);
     navigate('/'); // הפניה לעמוד הכניסה
   };
 
   const handleUserUpdate = () => {
     dispatch(fetchUpdateUser(editedUser)).then((res) => {
-      console.log("result after dispatch:", res);
     });
     setEditDialogOpen(false);
   };

@@ -6,7 +6,9 @@ import { UpdateUser } from "../services/UserServices";
 export const fetchLogin = createAsyncThunk(
     "users/fetchLogin",
     async (user) => {
+
         const res = await UserServices.LogIn(user);
+
         return res;
     }
 );
@@ -36,18 +38,16 @@ const userSlice = createSlice({
         error: null,
     },
     reducers: {
-       
+
         getDetailes: (state, action) => {
             // return state.currentUser
             return state.users
         },
 
         logout: (state) => {
-            console.log("logout");
             state.users = {};
             state.loading = false;
             state.error = null;
-            console.log("state.users", state.users);
 
         }
 
@@ -57,20 +57,20 @@ const userSlice = createSlice({
         builder
             // אמצע פעולה
             .addCase(fetchLogin.pending, (state) => {
+
                 state.loading = true;
             })
             // הפעולה הצליחה
             .addCase(fetchLogin.fulfilled, (state, action) => {
                 state.loading = false;
-                console.log("action.payload login", action.payload);
 
                 state.users = action.payload;// action.payload=res.data
-                console.log("state.users login", state.users);
 
-              
+
             })
             // הפעולה נכשלה
             .addCase(fetchLogin.rejected, (state, action) => {
+
                 state.loading = false;
                 state.error = action.payload;
             })
@@ -93,10 +93,8 @@ const userSlice = createSlice({
             })
             .addCase(fetchUpdateUser.fulfilled, (state, action) => {
                 state.loading = false;
-                console.log("action.payload update", action.payload);
 
                 state.users = action.payload; // עדכן את הנתונים
-                console.log("state.users update", state.users);
 
             })
             .addCase(fetchUpdateUser.rejected, (state, action) => {

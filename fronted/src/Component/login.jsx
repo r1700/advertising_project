@@ -83,8 +83,11 @@ export default function SlotsSignIn() {
     const handleSubmit = async (user) => {
         if (validateFields(user)) {
             setShowErrorMessages(false);
-            try {
+            try {                
+                
                 const res = await dispatch(fetchLogin(user)).unwrap()
+                console.log("res",res);
+                
                 switch (res.status) {
                     case 200:
                         navigate('/ActiveRental')

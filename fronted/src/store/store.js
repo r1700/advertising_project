@@ -14,16 +14,14 @@ import persistStore from 'redux-persist/es/persistStore'
 const persistConfig = {
     key: 'root',
     storage,
-    // white: 'user',
     whitelist: ['userReducer']
-
 }
 const rootReducer = combineReducers({
-    userReducer,
-    purchaseHistoryReducer,
-    subScriptionReducer,
-    productReducer,
-    RentalHistoryReducer
+     userReducer,
+     purchaseHistoryReducer,
+     subScriptionReducer,
+     productReducer,
+     RentalHistoryReducer
 })
 const persistedReducer = persistReducer(persistConfig, rootReducer)
 

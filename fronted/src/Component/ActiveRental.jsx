@@ -45,7 +45,8 @@ function ActiveRental() {
     }, []);
 
     let user = useSelector((state) => state.userReducer)
-
+    console.log("aaa",user);
+    
 
     useEffect(() => {
         dispatch(getSubScription());
@@ -195,7 +196,7 @@ function ActiveRental() {
                                             color: 'brown',
                                             flex: '8',
                                             borderRadius: '0',
-    
+
                                         }}
                                         size="small"
                                         onClick={handleClickOpen}
@@ -253,7 +254,7 @@ function ActiveRental() {
                     <AddIcon />
                 </Fab>
             </Tooltip>
- 
+
         </>
     );
 }

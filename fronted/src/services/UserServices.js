@@ -1,11 +1,13 @@
 import axios from "axios";
 
-const BASE_URL = "https://localhost:7113/api/users";
+
+const BASE_URL = `${import.meta.env.VITE_API_URL}/api/users`;
 
 
 
 export const LogIn = async (user) => {
     try {
+        
         const res = await axios.post(`${BASE_URL}/getUser`, { email: user.email, password: user.password }, {
             validateStatus: (status) => {
                 return status < 500;
@@ -15,7 +17,8 @@ export const LogIn = async (user) => {
         return { data: res.data, status: res.status };
     }
     catch (error) {
-        return error.res.status;
+        // תמיד להחזיר אובייקט עם status
+        return { data: null, status: error };
     }
 }
 
